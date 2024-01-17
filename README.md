@@ -1,5 +1,7 @@
 # 📜 Preamble
 
+Still in draft.
+
 The front page of the SBC Charter.
 
 * The value the club adds to the world
