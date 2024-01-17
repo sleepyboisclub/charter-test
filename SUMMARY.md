@@ -1,7 +1,10 @@
 # Table of contents
 
-* [💀 Sleepy Bois Club Charter (test)](README.md)
-* [Charter Page 2](charter-page-2.md)
-* [Copy of Charter Page 2](copy-of-charter-page-2.md)
-* [Another page](another-page.md)
-* [This is another page for testing merge](this-is-another-page-for-testing-merge.md)
+* [📜 SBC Charter (test)](README.md)
+* [🚀 Mission Statement](charter-page-2.md)
+* [✅ Membership Criteria and Responsibilities](copy-of-charter-page-2.md)
+* [🧑⚖ Leadership Structure](another-page.md)
+* [📣 Meetings and Communication](this-is-another-page-for-testing-merge.md)
+* [😇 Code of Conduct](code-of-conduct.md)
+* [🤔 Decision-Making Process](decision-making-process.md)
+* [📝 Amendments to the Charter](amendments-to-the-charter.md)
