@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📜 SBC Charter (test)](README.md)
+* [📜 Preamble](README.md)
 * [🚀 Mission Statement](charter-page-2.md)
 * [✅ Membership Criteria and Responsibilities](copy-of-charter-page-2.md)
 * [🧑⚖ Leadership Structure](another-page.md)
